@@ -1,0 +1,1 @@
+Inclusão de itens no mundo do game que podem ser coletados pelo jogador que fornecem bônus de dano nos inimigos.
