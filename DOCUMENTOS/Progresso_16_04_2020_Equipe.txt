@@ -1,0 +1,1 @@
+Análise e verificação da ferramenta para desenvolvimento do game.

@@ -1,0 +1,2 @@
+Desenvolvimento de fases no Game, pontuação, e melhorias nas caracteristicas dos inimigos.
+Realizada também pesquisa de audios para uso como efeito sonoro no jogo.

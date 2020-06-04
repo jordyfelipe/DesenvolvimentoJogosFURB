@@ -1,0 +1,1 @@
+Desenvolvimento de um menu para compra de itens que ajudam o personagem no game, ele a principio poderá comprar os itens com a pontuação adiquirida.
